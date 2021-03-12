@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Ragulthavidan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in website and app development
+- 🌱 I’m currently learning app development
+- 💞️ you can reach me at ragulthavidan@gmail.com
 
 <!---
-Ragulthavidan/Ragulthavidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ra
